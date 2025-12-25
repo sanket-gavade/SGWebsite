@@ -1,1 +1,2 @@
-This is profile page
+This is profile page 
+Added profile picture
